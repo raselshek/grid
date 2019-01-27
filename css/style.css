@@ -1,0 +1,23 @@
+body{
+	background-color: pink;
+}
+.row{
+	/*background-color: pink;*/
+	margin-bottom: 50px;
+}
+.col-sm,.col-sm-6,.col-sm-3,.col-sm-2,.col-sm-7,.col-sm-4,.col-sm-9{
+	color:white;
+	text-align: center;
+	background-color: gray;
+	height: 50px;
+	border:1px solid;
+
+}
+.pd{
+	height: 150px;
+	background-color: #5A3B79;
+}
+.ht{
+	height: 100px;
+	background-color: #282220;
+}
